@@ -1,0 +1,7 @@
+{
+	"custom":
+	{
+		"FOO:": "/mnt/bar",
+		"BAR:": "/media/foo",
+	}
+}
